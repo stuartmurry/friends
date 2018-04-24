@@ -1,0 +1,27 @@
+{
+  "name": "friends",
+  "version": "1.0.0",
+  "description": "Compare friend's data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuartmurry/friends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stuartmurry/friends/issues"
+  },
+  "homepage": "https://github.com/stuartmurry/friends#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consolidate": "^0.15.1",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "mustache": "^2.3.0",
+    "path": "^0.12.7"
+  }
+}
